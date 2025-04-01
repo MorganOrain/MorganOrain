@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Morgan and i'm a 20 years old JS developeur, from France </h1>
+<h1 align="center">Hi 👋! My name is Morgan and i'm a 21 years old JS developeur, from France </h1>
 
 ###
 
